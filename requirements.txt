@@ -1,0 +1,21 @@
+# Data manipulation
+pandas
+numpy
+pyarrow
+
+# Database connectors
+psycopg2-binary   # PostgreSQL
+mysql-connector-python
+sqlalchemy
+
+# APIs & requests
+requests
+python-dotenv
+
+# Data serialization
+fastparquet
+openpyxl              # untuk Excel
+
+# Airflow integration
+apache-airflow-providers-postgres
+apache-airflow-providers-mysql
